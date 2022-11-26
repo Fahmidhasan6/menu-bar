@@ -1,0 +1,33 @@
+body{
+    border: solid 1px red;
+   
+    color: #54cf12;
+
+}
+header{
+    min-height: 100px;
+}
+.ap{
+    font-size: 30px;
+}
+.p1{
+   
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.p2{
+    font-size: 30px;
+    color: red;
+}
+
+.p0{
+    
+    padding-left: 200px;
+}
+.pp{
+    font-size: 25px;
+    font-weight: 400;
+    padding-left: 50px;
+}
+
+
